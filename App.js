@@ -12,9 +12,9 @@ const App = () => (
 
   <View style={{ flex: 1 }}>
 
-    {/* <Header />
+    <Header />
     <SubHeader />
-    <ProductList/> */}
+    <ProductList/> 
     <Tabs/>
 
   </View>
